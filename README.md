@@ -1,0 +1,5 @@
+- Loan Applications (personal/financial data).
+- Credit Reports (credit history, existing loans).
+- Internal Records (loan transactions, repayments).
+- Online Portals (borrower activities).
+- Third-party Sources (e.g., income verification).
